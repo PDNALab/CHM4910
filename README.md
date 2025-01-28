@@ -1,5 +1,6 @@
 # CHM4910
-CURE class Presentation Files and Exercises
+CURE class Presentation Files and Exercises.
+
 These presentations and exercises are intended for students with no prior experience with UNIX and computational biology.
 
 Week 1 (The Terminal)
