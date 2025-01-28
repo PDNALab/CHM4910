@@ -1,0 +1,9 @@
+A6DNA Minimization on whole system
+ &cntrl
+  imin   = 1,
+  maxcyc = 2500,
+  ncyc   = 1000,
+  ntb    = 1,
+  ntr    = 0,
+  cut    = 10.0
+ /

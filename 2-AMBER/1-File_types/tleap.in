@@ -1,0 +1,14 @@
+source oldff/leaprc.ff14SB
+source leaprc.gaff
+source leaprc.water.tip3p
+
+mol = loadpdb 3dab_clean.pdb
+check mol
+
+solvatebox mol TIP3PBOX 13
+addions mol Na+ 0
+addions mol Cl- 0
+
+saveamberparm mol prot.top prot.crd
+
+quit
