@@ -13,7 +13,9 @@ Based on Chapter 1 of Zuckerman's Statistical Physics of Biomolecules. Available
 
 1. [Introduction to Molecular Mechanics](https://www.dropbox.com/scl/fi/7f7ps10wikcs28jqypl21/CURE_3_IntroMM.pdf?rlkey=wnvf57wlwaxuixj0utdsw5t7v&st=1p1ukdwk&dl=0)
 
-**Week 3 (Analyzing MD simulations)**
+**Week 3 (Amber Exercises)**
+
+1. [Preparing systems for MD simulations](https://www.dropbox.com/scl/fi/9exrhaj85zqcvlssq4cos/CURE_4_AMBER_Exercises.pdf?rlkey=ts9xbqlxhb55ivpif1yg5qdag&st=bgt06mr2&dl=0)
 
 **Week 4 ( _In silico_ single-point mutations)**
 
