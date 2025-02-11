@@ -1,5 +1,5 @@
 parm ../RAMP1_water.prmtop
-trajin ../5-md/prot_md.nc 
+trajin /orange/alberto.perezant/jokent.gaza/CHM4910/2-AMBER/3-Simulation/5-md/prot_md.nc 
 autoimage
 strip :WAT
 trajout image.dcd
