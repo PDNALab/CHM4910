@@ -1,0 +1,10 @@
+parm prot_nowater.parm7
+trajin image.dcd
+
+cluster c1 \
+  hieragglo epsilon 3.0 clusters 10 averagelinkage \
+  rms :1-81&!@H= \
+  sieve 10 random \
+  summary summary.dat \
+  repout rep repfmt pdb
+run

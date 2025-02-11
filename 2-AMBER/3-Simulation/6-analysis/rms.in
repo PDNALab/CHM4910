@@ -1,0 +1,7 @@
+parm prot_nowater.parm7
+trajin image.dcd
+
+rms ToFirst :1-81@CA,CB first out rmsd.dat
+atomicfluct af3_fluct out bfactor.dat
+go
+

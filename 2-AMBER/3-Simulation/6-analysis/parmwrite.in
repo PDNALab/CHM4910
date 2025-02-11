@@ -1,0 +1,5 @@
+parm ../RAMP1_water.prmtop
+autoimage
+parmstrip :WAT
+parmwrite out prot_nowater.parm7
+go

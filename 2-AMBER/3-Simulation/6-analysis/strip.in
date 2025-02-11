@@ -1,0 +1,6 @@
+parm ../RAMP1_water.prmtop
+trajin ../5-md/prot_md.nc 
+autoimage
+strip :WAT
+trajout image.dcd
+go
