@@ -24,3 +24,7 @@ Based on Chapter 1 of Zuckerman's Statistical Physics of Biomolecules. Available
 **Week 6 (_De novo_ protein design)**
 
 **Week 7 (Sequence optimization using AI)**
+
+**Articles**
+
+https://www.dropbox.com/scl/fo/n466z2f5zlg1zypkfj3bt/AEsPNdLUlTbC1PeLGVeu8d4?rlkey=mqh5u4jp6p6j3fdeznvj206uw&st=js3f6pel&dl=0
