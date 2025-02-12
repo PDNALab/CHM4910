@@ -16,6 +16,7 @@ Based on Chapter 1 of Zuckerman's Statistical Physics of Biomolecules. Available
 **Week 3 (Amber Exercises)**
 
 1. [Preparing systems for MD simulations](https://www.dropbox.com/scl/fi/9exrhaj85zqcvlssq4cos/CURE_4_AMBER_Exercises.pdf?rlkey=ts9xbqlxhb55ivpif1yg5qdag&st=bgt06mr2&dl=0)
+2. [Project Ideas and Trajectory analysis](https://www.dropbox.com/scl/fi/71czes7g7qzhljip989d1/CURE_5_Analysis.pdf?rlkey=00wmkfgtxq2nx05jlg2r7ovw1&st=ju2p7vje&dl=0)
 
 **Week 4 ( _In silico_ single-point mutations)**
 
