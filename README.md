@@ -18,13 +18,17 @@ Based on Chapter 1 of Zuckerman's Statistical Physics of Biomolecules. Available
 1. [Preparing systems for MD simulations](https://www.dropbox.com/scl/fi/9exrhaj85zqcvlssq4cos/CURE_4_AMBER_Exercises.pdf?rlkey=ts9xbqlxhb55ivpif1yg5qdag&st=bgt06mr2&dl=0)
 2. [Project Ideas and Trajectory analysis](https://www.dropbox.com/scl/fi/71czes7g7qzhljip989d1/CURE_5_Analysis.pdf?rlkey=00wmkfgtxq2nx05jlg2r7ovw1&st=ju2p7vje&dl=0)
 
-**Week 4 ( _In silico_ single-point mutations)**
+**Week 4 (Structure Prediction using AI)**
 
-**Week 5 (Structure Prediction using AI)**
+1. [AlphaFold2](https://www.dropbox.com/scl/fi/urpwfi721tzzr4kycd4e1/CURE_6_AlphaFold.pdf?rlkey=inuolckridvhei062om0cbe7i&st=165cpo7e&dl=0)
 
-**Week 6 (_De novo_ protein design)**
+**Week 5 (_De novo_ protein design)**
 
-**Week 7 (Sequence optimization using AI)**
+1. [Protein Design using RFDiffusion](https://www.dropbox.com/scl/fi/hfmu7zot86wyrdr50swuq/CURE_7_RFDiffusion.pdf?rlkey=5991nbgxgjddit7fhxu5himh1&st=5s87wsy8&dl=0)
+
+**Week 6 (Sequence optimization using AI)**
+
+1. [Inverse Protein Folding with ProteinMPNN](https://www.dropbox.com/scl/fi/wlvw3yi64e3us1i5agjd1/CURE_8_ProteinMPNN.pdf?rlkey=1tbjd2mu0camlva7rrwq7kzuj&st=7nulkle9&dl=0)
 
 **Articles**
 
