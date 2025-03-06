@@ -72,6 +72,10 @@ pdb4amber -i scwrl_out.pdb -o for_h_plus.pdb -y
 
 Download this `for_h_plus.pdb` to your local computer. Then we'll submit this to the H++ webserver to get the proper protonation states of the residues at pH 7. H++ will provide a file named *genpdb.cpptraj.pdb, which already has the correct AMBER residue names. Download this file and upload it back to Hipergator.
 
+## Prepare AMBER files
+
+Generate the topology and coordinate files from the H++ pdb file using `tleap` and the `tleap.in` file. This would also add the water box and the counterions to your system.
+
 ## Running MD Simulations in AMBER
 
 To run the MD simulations, use the input files we have used in the class. We have 5 steps. The first two steps are minimization (first is only on the solvent, and the second is for the whole system), the third step is heating of the solvent, the fourth step is equilibration on the whole system, and the final step is the actual MD run (or as we call it, the production run). The slurm files and input files for these simulations are in `3-Simulation` folder.
