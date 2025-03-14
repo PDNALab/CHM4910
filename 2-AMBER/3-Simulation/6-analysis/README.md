@@ -8,7 +8,7 @@ cpptraj -i <input_file>.in
 
 Some notes:
 
-1. A common CPPTRAJ is when you have inconsistencies between the topology and the trajectory file (i.e., have different number and order of atoms).
+1. A common CPPTRAJ error is when you have inconsistencies between the topology and the trajectory file (i.e., have different number and order of atoms).
 2. The analysis files are broken down to multiple scripts, but it always possible to write all analyses in a single script.
 3. There are a lot of resources for CPPTRAJ. You can always consult the AMBER manual:
    
